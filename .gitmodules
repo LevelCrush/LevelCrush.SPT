@@ -16,3 +16,6 @@
 [submodule "forks/RealismSync"]
 	path = forks/RealismSync
 	url = https://github.com/LevelCrush/RealismSync
+[submodule "server/LevelCrush.SPT.Manifest"]
+	path = server/LevelCrush.SPT.Manifest
+	url = https://github.com/LevelCrush/LevelCrush.SPT.Manifest.git
