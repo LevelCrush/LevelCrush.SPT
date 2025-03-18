@@ -1,0 +1,18 @@
+[submodule "client/LevelCrush.SPT.Prepatcher"]
+	path = client/LevelCrush.SPT.Prepatcher
+	url = https://github.com/LevelCrush/LevelCrush.SPT.Prepatcher
+[submodule "client/LevelCrush.SPT.Bosses"]
+	path = client/LevelCrush.SPT.Bosses
+	url = https://github.com/LevelCrush/LevelCrush.SPT.Bosses
+[submodule "client/LevelCrush.SPT.Plugin"]
+	path = client/LevelCrush.SPT.Plugin
+	url = https://github.com/LevelCrush/LevelCrush.SPT.Plugin
+[submodule "server/LevelCrush.SPT.Mod"]
+	path = server/LevelCrush.SPT.Mod
+	url = https://github.com/LevelCrush/LevelCrush.SPT.Mod
+[submodule "client/LevelCrush.SPT.Launcher"]
+	path = forks/LevelCrush.SPT.Launcher
+	url = https://github.com/LevelCrush/LevelCrush.SPT.Launcher
+[submodule "forks/RealismSync"]
+	path = forks/RealismSync
+	url = https://github.com/LevelCrush/RealismSync
